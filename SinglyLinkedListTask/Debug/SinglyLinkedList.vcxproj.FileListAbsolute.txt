@@ -1,0 +1,2 @@
+C:\Users\yakov\Desktop\SinglyLinkedListTask\Debug\SinglyLinkedList.exe
+C:\Users\yakov\Desktop\SinglyLinkedListTask\Debug\SinglyLinkedList.pdb
